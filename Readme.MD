@@ -8,13 +8,13 @@ The goals / steps of this project is to implement Lucas Kanade template tracker 
 ### 1. Results
 
 <p align="center">
-<img src="https://github.com/sauravkdeo/LucasTemplateTracker/blob/master/output/car.gif" width="400" height="270" border="10">
+<img src="https://github.com/sauravkdeo/LucasTemplateTracker/blob/master/output/car.gif" width="640" height="360" border="10">
 </p>
 <p align="center">
-<img src="https://github.com/sauravkdeo/LucasTemplateTracker/blob/master/output/Human.gif" width="400" height="270" border="10">
+<img src="https://github.com/sauravkdeo/LucasTemplateTracker/blob/master/output/Human.gif" width="640" height="360" border="10">
 </p>
 <p align="center">
-<img src="https://github.com/sauravkdeo/LucasTemplateTracker/blob/master/output/Vase.gif" width="400" height="270" border="10">
+<img src="https://github.com/sauravkdeo/LucasTemplateTracker/blob/master/output/Vase.gif" width="640" height="360" border="10">
 </p>
 
 ### 2. Pipeline
@@ -23,7 +23,7 @@ My algorithm can be easily explained using the undementioned image.
 
 
 <p align="center">
-<img src="https://github.com/sauravkdeo/LucasTemplateTracker/blob/master/output/lucas_kanade.png" width="400" height="270" border="10">
+<img src="https://github.com/sauravkdeo/LucasTemplateTracker/blob/master/output/lucas_kanade.png" width="935" height="800" border="10">
 </p>
 
 
